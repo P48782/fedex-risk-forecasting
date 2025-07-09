@@ -51,7 +51,6 @@ Due to GitHub file size limits, the forecasting and prescriptive modeling output
   <img src="dashboard_preview.png" alt="FedEx Power BI Dashboard" width="600"/>
 </p>
 
-📄 [View Dashboard PDF](https://github.com/P48782/fedex-risk-forecasting/blob/main/Fedex%20forecasting.pdf)
 
 
 ---
