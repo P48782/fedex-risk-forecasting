@@ -31,7 +31,17 @@ Due to GitHub file size limits, the forecasting and prescriptive modeling output
 
 > 📂 Place these files inside a `/data/` folder when running code or opening the dashboard locally.
 
----
+## 📊 FedEx Shipment Dashboard – Interactive Preview
+
+🚧 The interactive version of this dashboard is hosted on my university’s Power BI workspace.  
+🔐 Access may be restricted to university users only. If you’re unable to view it, please refer to the PDF snapshot below.
+
+🔗 **Interactive Dashboard (hosted at university)**:  
+[View Dashboard in Power BI Service](https://app.powerbi.com/groups/me/reports/9a381687-6805-473b-aa31-071a2d5e0d8b/8314f80ec30e41520942?experience=power-bi)
+
+📄 **PDF Snapshot of Dashboard**:  
+[Download Dashboard PDF](.)
+
 
 ## 🧪 How to Reproduce
 
