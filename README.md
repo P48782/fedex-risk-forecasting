@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fedex_logo.png" alt="FedEx Logo" width="200"/>
+</p>
+
 # 📦 FedEx Risk Forecasting and Analytics
 
 This project analyzes FedEx shipment risk by applying data cleaning, forecasting, risk scoring, and prescriptive analytics using Python and Power BI.
