@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Fedex_logo.png" alt="FedEx Logo" width="200"/>
+  <img src="Fedex-logo.png" alt="FedEx Logo" width="200"/>
 </p>
 
 # 📦 FedEx Risk Forecasting and Analytics
